@@ -18,7 +18,7 @@ It fetches live/offline data for selected Twitch channels using the FreeCodeCamp
 
 ## 🚀 Live Demo
 
-[🔗 View Live App](#) 
+[🔗 View Live App](https://twitch-status-app.vercel.app/) 
 
 ---
 
